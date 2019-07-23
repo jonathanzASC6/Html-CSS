@@ -1,15 +1,18 @@
 body{
-    color:red;
-    text-align: center;
+    color:lightpink;
+    background-color:rgb(57, 7, 104);
+    font-family: "Geostar", 
+    cursive;
 }
 
-p{
-    color:lightblue;
-}
-
-h1{
+h1 {
     margin: 15px;
-    border: solid;
+    border: solid 4px;
     border-color: darkgreen;
     padding: 20px;
+}
+
+#name{
+    font: bold 26px Arial;
+    color: lightblue;
 }
